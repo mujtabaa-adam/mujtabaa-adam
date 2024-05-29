@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Mujtabaa Adam
+I'm a freshman in college pursuing a career in Cybersecurity, with an emphasis on penetration testing. I like to do Capture The Flag (CTF) challenges in my free time and have written writeups on them, which you can find here. 
 
-<!--
-**mushy2005/mushy2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Objective
+My journey in the world of cybersecurity has been nothing but full of learning. Although I'm still early in my career, my passion for cybersecurity drives me to constantly explore outside of my scope. Through hands-on experiences, I aim to contribute meaningfully to the field. 
 
-Here are some ideas to get you started:
+## Projects
+| Project                                         | Link         |
+|-----------------------------------------------|----------------------------|
+| TryHackMe Writeups          | <a href="https://github.com/mushy2005/TryHackMe-Writeups">TryHackMe</a>|
+| PortSwigger Web Security Writeups | <a href="https://github.com/mushy2005/PortSwigger_WebSecurityLabs">PortSwigger</a>
+| Steganography | <a href="https://github.com/mushy2005/steganography">Steganography</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
