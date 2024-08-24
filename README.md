@@ -1,13 +1,47 @@
-# Hello, I'm Mujtabaa Adam
-I'm a freshman in college pursuing a career in Cybersecurity, with an emphasis on penetration testing. I like to do Capture The Flag (CTF) challenges in my free time and have written write-ups on them, which you can find here. 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=200&color=49F7B6&width=435&lines=Hey%2C+it's+Mujtabaa!;currently%3A+boxing+with+malware;currently%3A+breaking+my+keyboard;currently%3A+mastering+the+dark+arts)](https://git.io/typing-svg)
 
-## Objective
-My journey in the world of cybersecurity has been nothing but full of learning. Although I'm still early in my career, my passion for cybersecurity drives me to constantly explore outside of my scope. Through hands-on experiences, I aim to contribute meaningfully to the field. 
+<h3 align="left">College Sophomore specializing in cybersecurity, specifically offensive security. </h3>
 
-## Projects
-| Project                                         | Link         |
-|-----------------------------------------------|----------------------------|
-| TryHackMe Write-ups          | <a href="https://github.com/mushy2005/TryHackMe-Writeups">TryHackMe</a>|
-| PortSwigger Web Security Write-ups | <a href="https://github.com/mushy2005/PortSwigger_WebSecurityLabs">PortSwigger</a>
-| Steganography | <a href="https://github.com/mushy2005/steganography">Steganography</a>
+<div align="left">
+Currently focusing on malware analysis, reverse engineering, and red teaming. 
+<br>
+<br>
+  
+  ⭐ **Certifications**: `Security+`
+</div>
 
+<br>
+<!-- Projects -->
+<h2 align=left>🌱 Projects</h2>
+<br>
+<div align="left">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td>TryHackMe Write-ups</td>
+      <td><a href="https://github.com/mushy2005/TryHackMe-Writeups">TryHackMe</a></td>
+    </tr>
+    <tr>
+      <td>PortSwigger Web Security Write-ups</td>
+      <td><a href="https://github.com/mushy2005/PortSwigger_WebSecurityLabs">PortSwigger</a></td>
+    </tr>
+    <tr>
+      <td>Steganography</td>
+      <td><a href="https://github.com/mushy2005/steganography">Steganography</a></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Development -->
+<h2 align="left">⚒️ Development ⚒️</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=css,html,java,python" /> <br>
+    <img src="https://skillicons.dev/icons?i=bash,powershell,vim,vscode" /> <br>
+    <img src="https://skillicons.dev/icons?i=arch,windows,linux,kali" /> <br>
+</div>
