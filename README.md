@@ -12,30 +12,28 @@ Currently focusing on malware analysis, reverse engineering, and red teaming.
 
 <br>
 <!-- Projects -->
-<h2 align=left>🌱 Projects</h2>
+<h2 align=left>🌱 Write-ups</h2>
 <br>
 <div align="left">
   <table>
     <tr>
-      <th>Project</th>
+      <th>Write-ups</th>
       <th>Link</th>
     </tr>
     <tr>
-      <td>TryHackMe Write-ups</td>
+      <td>TryHackMe</td>
       <td><a href="https://github.com/mushy2005/TryHackMe-Writeups">TryHackMe</a></td>
     </tr>
     <tr>
-      <td>PortSwigger Web Security Write-ups</td>
-      <td><a href="https://github.com/mushy2005/PortSwigger_WebSecurityLabs">PortSwigger</a></td>
-    </tr>
-    <tr>
-      <td>Steganography</td>
-      <td><a href="https://github.com/mushy2005/steganography">Steganography</a></td>
+      <td>picoCTF</td>
+      <td><a href="https://github.com/mushy2005/picoCTF">picoCTF</a></td>
     </tr>
   </table>
 </div>
 
 <br>
+
+<!-- add Projects section  -->
 
 <!-- Development -->
 <h2 align="left">⚒️ Development ⚒️</h2>
