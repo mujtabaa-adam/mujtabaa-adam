@@ -12,13 +12,31 @@ Currently focusing on malware analysis, reverse engineering, and red teaming.
 
 <br>
 <!-- Projects -->
-<h2 align=left>🌱 Write-ups</h2>
+<h2 align=left> Projects</h2>
+<br>
+<div align="left">
+  <table>
+    <tr>
+      <th>🌱 Projects</th>
+      <th>Links</th>
+    </tr>
+    <tr>
+      <td>Malware Analysis</td>
+      <td><a href="https://github.com/mushy2005/Malware-Analysis">Malware Analysis</a></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Writeups -->
+<h2 align=left>📋 Write-ups</h2>
 <br>
 <div align="left">
   <table>
     <tr>
       <th>Write-ups</th>
-      <th>Link</th>
+      <th>Links</th>
     </tr>
     <tr>
       <td>TryHackMe</td>
