@@ -23,6 +23,10 @@ Currently focusing on malware analysis, reverse engineering, and red teaming.
     <tr>
       <td>Malware Analysis</td>
       <td><a href="https://github.com/mushy2005/Malware-Analysis">Malware Analysis</a></td>
+      <tr>
+      <td>Honeypot Deployment using GCP</td>
+      <td><a href="https://github.com/mushy2005/Honeypot">Honeypot Deployment using GCP</a></td>
+    </tr>
     </tr>
   </table>
 </div>
