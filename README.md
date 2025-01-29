@@ -3,7 +3,7 @@
 <h3 align="left">College Sophomore specializing in cybersecurity, specifically offensive security. </h3>
 
 <div align="left">
-Currently focusing on malware analysis, reverse engineering, and red teaming. 
+Currently focusing on malware analysis, reverse engineering, and blue teaming. 
 <br>
 <br>
   
