@@ -22,10 +22,14 @@ Currently focusing on malware analysis, reverse engineering, and blue teaming.
     </tr>
     <tr>
       <td>Malware Analysis</td>
-      <td><a href="https://github.com/mushy2005/Malware-Analysis">Malware Analysis</a></td>
+      <td><a href="https://github.com/mujtabaa-adam/Malware-Analysis">Malware Analysis</a></td>
       <tr>
       <td>Honeypot Deployment using GCP</td>
-      <td><a href="https://github.com/mushy2005/Honeypot">Honeypot Deployment using GCP</a></td>
+      <td><a href="https://github.com/mujtabaa-adam/Honeypot">Honeypot Deployment using GCP</a></td>
+    </tr>
+    <tr>
+      <td>SOAR-EDR Project</td>
+      <td><a href="https://github.com/mujtabaa-adam/SOAR_EDR_Project">SOAR-EDR Project</td>
     </tr>
     </tr>
   </table>
