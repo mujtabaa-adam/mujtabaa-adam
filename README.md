@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=200&color=49F7B6&width=435&lines=Hey%2C+it's+Mujtabaa!;currently%3A+boxing+with+malware;currently%3A+breaking+my+keyboard;currently%3A+mastering+the+dark+arts)](https://git.io/typing-svg)
 
-<h3 align="left">College Sophomore specializing in cybersecurity, specifically defensive security. </h3>
+<h3 align="left">College Junior specializing in cybersecurity, specifically defensive security. </h3>
 
 <div align="left">
 Currently focusing on malware analysis, reverse engineering, and blue teaming. 
